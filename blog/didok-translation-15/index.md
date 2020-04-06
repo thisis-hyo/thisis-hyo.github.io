@@ -191,14 +191,14 @@ iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처
 # 특성
 
 모든 아이콘 세트에는 특징이 존재한다. 그것들을 독특하게 만드는 것이 무엇일까? 브랜드가 어떻게 전달되고 있는지? 어떤 분위기를 만들어내고 있는지 생각해볼 필요가 있다.
-![img24](img/img124.png)
+![img24](img/img24.png)
 <figcaption> Waze icons </figcaption>
 
 Waze의 아이콘은 그들이 믿고 사랑하는 인터페이스이다. 이 알록달록하고 청키한 아이콘들은 “우리는 괴짜야!"라고 소리치고 있다.
 
 Twitter의 아이콘은 부드럽고 가볍고 산뜻한 느낌을 준다.
 
-![img25](img/img125.png)
+![img25](img/img25.png)
 <figcaption> Twitter icons </figcaption>
 
 Sketch 아이콘의 경우 섬세하면서 상쾌하다.
@@ -301,15 +301,15 @@ Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려�
 
 ### 아이콘 라이브러리
 
-- [**Feather](https://feathericons.com/) 200개 이상의 확장 및 축소가 가능한 아이콘.
-- [**Material system icons](https://material.io/resources/icons/?style=baseline) 1만 개 이상의 5가지 스타일의 실용적인 UI 아이콘
-- [**Nucleo](https://nucleoapp.com/premium-icons) 아웃라인, 플랫/컬러, 글리프 3가지 스타일로 구성된 약 30만 개 아이콘 세트
-- [**Streamline](https://streamlineicons.com/) 아름답게 만들어진 30만 개 아이콘과 3가지 무게의 선형 아이콘
+- [Feather](https://feathericons.com/) 200개 이상의 확장 및 축소가 가능한 아이콘.
+- [Material system icons](https://material.io/resources/icons/?style=baseline) 1만 개 이상의 5가지 스타일의 실용적인 UI 아이콘
+- [Nucleo](https://nucleoapp.com/premium-icons) 아웃라인, 플랫/컬러, 글리프 3가지 스타일로 구성된 약 30만 개 아이콘 세트
+- [Streamline](https://streamlineicons.com/) 아름답게 만들어진 30만 개 아이콘과 3가지 무게의 선형 아이콘
 
 <br>
 
 ### 아이콘 관리자
-- [Noun Project](https://thenounproject.com/) 퀄리티 측면에서 완벽하다고 할 수 없지만, 스타일과 은유적 표현에 있어 영감 받기 좋은 사이트
+- [Noun Project](https://thenounproject.com/) 퀄리티 측면에서 완벽하다고 할 수 없지만, 스타일과 은유적 표현에 있어 영감받기 좋은 사이트
 
 <br>
 
@@ -321,11 +321,13 @@ Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려�
 ### 아이콘 관련 문서
 
 - [Material system icons](https://material.io/design/iconography/system-icons.html), [Product icons](https://material.io/design/iconography/product-icons.html) 관련된 디자인 문서들 중 당연 최고
-- [UI icons](https://www.ibm.com/design/language/iconography/ui-icons/design/), [App icons](https://www.ibm.com/design/language/iconography/app-icons/design/), [contributor guide for icons](https://www.carbondesignsystem.com/guidelines/icons/contribute/) IBM에서 제공하는 뛰어난 시각적 참고 도구/문서들**
-- [Shopify Polaris icons](https://polaris.shopify.com/design/icons) Shopify에서 제공하는 가장 잘 작성된 가이드라인**
+- [UI icons](https://www.ibm.com/design/language/iconography/ui-icons/design/), [App icons](https://www.ibm.com/design/language/iconography/app-icons/design/), [contributor guide for icons](https://www.carbondesignsystem.com/guidelines/icons/contribute/) IBM에서 제공하는 뛰어난 시각적 참고 도구/문서들
+- [Shopify Polaris icons](https://polaris.shopify.com/design/icons) Shopify에서 제공하는 가장 잘 작성된 가이드라인
 
 <br>
+
 ---
+
 <br>
 
 발행: 디독 2020.03.19
