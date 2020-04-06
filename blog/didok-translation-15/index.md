@@ -51,7 +51,7 @@ order: 15
 여기 우리가 좀 더 친숙하게 느끼는 사랑, 경고, 음악, 그리고 위/앞 화살표 아이콘이 있다.
 
 ![img06](img/img06.png)
-<figcaption> Familiar metaphors from <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon </a>icon family</figcaption>
+<figcaption> Familiar metaphors from <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon</a> icon family</figcaption>
 
 <br>
 화살표는 길 찾기에 사용되는, 간단하지만 강력한 기호라 할 수 있다.
@@ -174,7 +174,7 @@ iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처
 
 ![img21](img/img21.png)
 
-최근 애플은 [San Francisco,](https://developer.apple.com/fonts/)의 연장선으로 [SF 기호를 도입,](https://developer.apple.com/videos/play/wwdc2019/206)하면서 코스를 수정했다. SF 기호는 보다 발전된 그래픽 아이콘 스타일로, 9가지의 무게감과 3가지 크기를 가지고 있다. (이는 약간 복잡하지만, 신중했던 것이 분명하다.) 아이콘과 아이콘 간, 필 처리와 아웃라인 변형 사이에서, 이것들이 보다 더 조화로워 졌음을 알 수 있다.
+최근 애플은 [San Francisco](https://developer.apple.com/fonts/)의 연장선으로 [SF 기호를 도입](https://developer.apple.com/videos/play/wwdc2019/206)하면서 코스를 수정했다. SF 기호는 보다 발전된 그래픽 아이콘 스타일로, 9가지의 무게감과 3가지 크기를 가지고 있다. (이는 약간 복잡하지만, 신중했던 것이 분명하다.) 아이콘과 아이콘 간, 필 처리와 아웃라인 변형 사이에서, 이것들이 보다 더 조화로워 졌음을 알 수 있다.
 
 ![img22](img/img22.png)
 <figcaption> Icons from Apple’s<a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/" target="_blank"> SF Symbols</a></figcaption>
@@ -210,7 +210,7 @@ Sketch 아이콘의 경우 섬세하면서 상쾌하다.
 Freemojis는 귀엽고 사랑스럽다.
 
 ![img27](img/img27.png)
-<figcaption><a href="https://app.streamlineicons.com/freemojis" target="_blank">Freemojis</a>  from <a href="hhttps://streamlineicons.com/" target="_blank">Streamline.</a></figcaption>
+<figcaption><a href="https://app.streamlineicons.com/freemojis" target="_blank">Freemojis</a>  from <a href="https://streamlineicons.com/" target="_blank">Streamline.</a></figcaption>
 
 Andriod 아이콘 세트는 홈 테마를 위해 다양한 분위기를 연출하고 있다. 여기서는 추상적이거나, 픽셀 스타일, 물방울, 네온 스타일로 표현된 아이콘 세트를 볼 수 있다.
 
@@ -230,22 +230,26 @@ Andriod 아이콘 세트는 홈 테마를 위해 다양한 분위기를 연출�
 
 최종 파일을 깨끗하게 유지하고, 이름을 잘 지정한 다음 쉽게 찾을 수 있도록 챙겨두어야 한다. 이 때 알파벳, 크기별, 유형별 등, 아이콘을 분류하는 가장 좋은 방법은 무엇일지 모색해보자.
 
-![img28](img/img28.png)
-<figcaption>A <a href="https://nucleoapp.com/premium-icons" target="_blank">Nucleo</a> Sketch file, organized by type across pages </figcaption>
+![img29](img/img29.png)
+<figcaption>A <a href="https://nucleoapp.com/premium-icons/" target="_blank">Nucleo</a> Sketch file, organized by type across pages </figcaption>
 
 ### 문서화 잘하는 방법
 
 아이콘 세트의 핵심 원칙에 대한 설명을 적어 두어야 한다.
 
-Phosphor 아이콘 세트에 대한 원칙 예제
+#### Phosphor 아이콘 세트에 대한 원칙 예제
 
 - **명료성. 무엇보다도 명확하게 표현하기.** 아이콘을 인지하고 읽을 수 있게 하자. 아이콘이 나타내는 것에 대한 명료성을 져버리선 안된다.
 - **간결성. 가능한 한 적은 디테일 사용하기.** Phosphor 스타일은 함축적이다. 모든 형태의 테두리는 간결하고 의도적으로 표현하여 본질을 전달하고자 해야 한다.
 - **특이성. 독특하고 기발하도록 제작하기.** 독특한 디테일을 추가하면, 약간의 친근한 느낌을 전달할 수 있으며, 그렇지 않은 경우 딱딱한 느낌이 들 수 있다.
 
+
+
 다음으로, 기술 규칙을 나열한다.
 
-Phosphor 아이콘 세트에 대한 기술 규칙 예제
+
+
+#### Phosphor 아이콘 세트에 대한 기술 규칙 예제
 
 - 48x48px 캔버스를 사용하기
 - 1.5px의 중심 라인 테두리 사용하기
@@ -258,3 +262,75 @@ Phosphor 아이콘 세트에 대한 기술 규칙 예제
 - 6px 정도의 다듬기 영역 유지하기
 
 이와 같은 과정을 반복하고, 원한다면 아래의 예시처럼 문서를 공개해도 좋다.
+- [Material System icons](https://material.io/design/iconography/system-icons.html)
+- IBM’s [UI icons](https://www.ibm.com/design/language/iconography/ui-icons/design/), [App icons](https://www.ibm.com/design/language/iconography/app-icons/design/), and [contributor guide for icons](https://www.carbondesignsystem.com/guidelines/icons/contribute/)
+- [Shopify Polaris Icons](https://polaris.shopify.com/design/icons)
+
+
+
+### 테스트하기
+
+제일 먼저 일관성을 확인해야 한다. 아이콘 크기가 전체적으로 알맞은지, 더 넓은 범위에서 조화를 이룰 수 있도록 확인해야 한다. 아이콘을 옆에 두고 비교해보는 것은, 명료성, 가독성, 정렬성, 간결성, 일관성 및 특성 등 위에서 살펴본 원칙들을 확인하는데 도움된다.
+
+![img30](img/img30.png)
+<figcaption>Test sheets used in <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor/" target="_blank">Phosphor</a>’s QA process</figcaption>
+
+
+
+
+### 커스텀 도구
+
+가능하다면, 마지막으로 아이콘을 효율적으로 사용할 수 있는 도구를 만들도록 하자. 구글의 머테리얼 디자인은 아이콘 세트를 사용자 지정 라이브러리로 만들어서 원하는 형식으로 필요한 스타일, 색상, 크기를 검색하고 다운로드할 수 있도록 쉽게 접근할 수 있도록 지원하고 있다.
+
+![img31](img/img31.png)
+<figcaption>Material’s easy-to-use <a href="https://material.io/resources/icons/?style=baseline/" target="_blank">icon library</a></figcaption>
+
+
+Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려울 정도로 사용하기 쉽게 만들어져 있다. 프론트엔드 프레임워크 라이브러르, CDN, 아이콘 글꼴이나 SVG 방식을 통해 아이콘과 함께 사용할 수 있는 다양한 방법으로 제공하고 있다 더 놀라운 것은 가장 많이 요청된 아이콘이나 작업 중인 아이콘, 최근에 출시된 것을 공유하고 있는 공공 백로그가 있다는 점이다.
+
+![img32](img/img32.png)
+<figcaption>Font Awesome’s <a href="https://fontawesome.com/community/leaderboard/new" target="_blank">Icon Leaderboard</a></figcaption>
+
+
+
+
+# (참고하면 좋을) 리소스
+
+### 아이콘 라이브러리
+
+- [**Feather](https://feathericons.com/)** 200개 이상의 확장 및 축소가 가능한 아이콘.
+- [**Material system icons](https://material.io/resources/icons/?style=baseline)** 1만 개 이상의 5가지 스타일의 실용적인 UI 아이콘
+- [**Nucleo](https://nucleoapp.com/premium-icons)** 아웃라인, 플랫/컬러, 글리프 3가지 스타일로 구성된 약 30만 개 아이콘 세트
+- [**Streamline](https://streamlineicons.com/)** 아름답게 만들어진 30만 개 아이콘과 3가지 무게의 선형 아이콘
+
+### 아이콘 관리자
+
+- **[Noun Project](https://thenounproject.com/)** 퀄리티 측면에서 완벽하다고 할 수 없지만, 스타일과 은유적 표현에 있어 영감 받기 좋은 사이트
+
+### 아이콘 매니저
+
+- **[Nucleo app](https://nucleoapp.com/application)** 앱 사용 시 아이콘 세트를 임포트/익스포트 할 수 있고 원하는 디자인 툴로 불러오기 가능
+
+### 아이콘 관련 문서
+
+- **[Material system icons](https://material.io/design/iconography/system-icons.html), [Product icons](https://material.io/design/iconography/product-icons.html)** 관련된 디자인 문서들 중 당연 최고
+- **[UI icons](https://www.ibm.com/design/language/iconography/ui-icons/design/), [App icons](https://www.ibm.com/design/language/iconography/app-icons/design/), [contributor guide for icons](https://www.carbondesignsystem.com/guidelines/icons/contribute/) IBM에서 제공하는 뛰어난 시각적 참고 도구/문서들**
+- **[Shopify Polaris icons](https://polaris.shopify.com/design/icons) Shopify에서 제공하는 가장 잘 작성된 가이드라인**
+
+---
+
+번역: 노효정
+저자 : [Helena Zhang](https://uxdesign.cc/@minoraxis?source=post_page-----e7187539e4a2----------------------)
+원문 링크: [https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+
+
+
+**[2020.03.19]**
+
+오늘은 아이콘 디자인 시 알아야 할 7가지 원칙에 대해서 소개해드렸습니다. 이제 막 디자인을 시작하신 주니어 디자이너분이라면 사례를 중심으로 이 7가지 원칙들을 이해하는 방향으로 아티클을 읽어보시기를 권해드리며, ‘우리 회사의 아이콘은 다 내 담당'이신 디자이너 분들이라면 열심히 만든 그 아이콘 세트를 어떻게 정리하고 테스트하고 아카이브 해야 하는지, 어떻게 하면 동료들과 더 완결성 있는 아이콘 세트를 만들 수 있을지 ‘사용의 용이성' 부분을 업무와 연결 지어 읽어보시는 것은 어떨까요?
+
+단순히 AI 파일로 끝나는 것이 아니라, 지속적으로 업무에 활용할 아이콘을 만들고 완성한다는 것. 역시 힙(?)한 아이콘을 만드는 건 단순히 디자이너 혼자만의 몫은 아니란 생각이 듭니다.
+
+우리는 어제, 지난 한 달, 일 년 동안 몇 개의 아이콘을 그려왔고 또 앞으로는 얼마나 더 그리게 될까요? 언젠가 여러분이 디자이너 인생 통틀어 가장 끝내주는 아이콘 세트를 만드실 적에, 부디 오늘의 아티클이 좋은 밑바탕이 되었으면 좋겠습니다. 그럼, 다음엔 더 좋은 아티클로 찾아뵐게요! 오늘도 읽어주셔서 감사합니다.
+
+-디독 드림-
