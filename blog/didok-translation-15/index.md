@@ -39,7 +39,7 @@ order: 15
 
 왼쪽에서 오른쪽 순서로 이 네비게이션 아이콘들이 의미는 다음과 같다. 피드, 찾기, 스튜디오, 프로필, 그리고 친구 목록. 그래도 VSCO 앱에서의 ‘혼동 비용'은 몇 번의 탭만 거치면 각 아이콘이 무엇을 의미하는지 알아차릴 수 있기 때문에 그나마 낮다.
 
-시간이 흐르면서 반복을 통해 추상적인 것은 익숙해질 수 있다. 이게 [자동차 기호들이 표준화,](https://www.iso.org/standard/54513.html)될 수 있었던 이유이다. 요지는 모두에게 공유되는 의미를 구축하는 것이 중요하다. 1984년, 수잔 카레는 애플의 키보드에 있는 ‘기능(Feature)’키의 아이콘을 만드는 임무를 맡았다. 그녀는 북유럽의 관심 장소 표지판에서도 찾아볼 수 있는 이 추상적인 심볼을 만들어냈다.
+시간이 흐르면서 반복을 통해 추상적인 것은 익숙해질 수 있다. 이게 [자동차 기호들이 표준화](https://www.iso.org/standard/54513.html)될 수 있었던 이유이다. 요지는 모두에게 공유되는 의미를 구축하는 것이 중요하다. 1984년, 수잔 카레는 애플의 키보드에 있는 ‘기능(Feature)’키의 아이콘을 만드는 임무를 맡았다. 그녀는 북유럽의 관심 장소 표지판에서도 찾아볼 수 있는 이 추상적인 심볼을 만들어냈다.
 
 ![img05](img/img05.png)
 <figcaption>Command icon in SF Pro</figcaption>
@@ -51,7 +51,7 @@ order: 15
 여기 우리가 좀 더 친숙하게 느끼는 사랑, 경고, 음악, 그리고 위/앞 화살표 아이콘이 있다.
 
 ![img06](img/img06.png)
-<figcaption> Familiar metaphors from <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon</a>icon family</figcaption>
+<figcaption> Familiar metaphors from <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon </a>icon family</figcaption>
 
 <br>
 화살표는 길 찾기에 사용되는, 간단하지만 강력한 기호라 할 수 있다.
@@ -144,18 +144,18 @@ Transit 앱도 비슷한 이슈를 가지고 있다. 클립 보드 아이콘은 
 
 유저 인터페이스에서 간결하게 정돈한 스타일은 요지를 손쉽게 이해시킨다. 여기엔 텔레그램의 아이콘이 좋은 예가 될 것이다 :
 
-![img15](img/img17.png)
+![img17](img/img17.png)
 <figcaption> Telegram icons </figcaption>
 
 간혹 UI 아이콘은 보다 설명적인 스타일로 표현되는 경우도 있다. 이 다중톤의 Yelp 아이콘들은 인기 있는 음식 검색을 시각화한 흥미로운 방식이다. 특히 태국 음식 아이콘의 새우는 정교하게 표현되어 있다.
 
-![img16](img/img18.png)
+![img18](img/img18.png)
 <figcaption> Yelp icons by <a href="https://www.instagram.com/scottt0023/" target="_blank">Scott Tusk</a></figcaption>
 
 모바일, 태블릿 및 데스크탑 애플리케이션을 나타내는 앱 아이콘은 적절한 수준의 디테일을 통해 입체감과 색상을 표현할 수 있다. 이는 시청자들이 모바일 홈 스크린, 독스, 앱 스토어에서 브랜드의 맥락을 이해하기 때문에, 앱 아이콘에서도 보다 더 브랜드와 제품에 대해 표현할 수 있는 것이다.
 
-![img17](img/img19.png)
-<figcaption> Apple <a href="https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/" target="_blank">app icons</a>for Procreate, Firefox, and Netflix</figcaption>
+![img19](img/img19.png)
+<figcaption> Apple <a href="https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/" target="_blank">app icons</a> for Procreate, Firefox, and Netflix</figcaption>
 
 
 
@@ -165,26 +165,26 @@ Transit 앱도 비슷한 이슈를 가지고 있다. 클립 보드 아이콘은 
 아이콘 세트가 조화를 이루기 위해서는 같은 스타일 규칙을 계속 유지해야 한다.
 iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처리 및 크기를 보여왔다.
 
-![img18](img/img20.png)
+![img20](img/img20.png)
 <figcaption> Icons from Apple’s  <a href="https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/" target="_blank">Home Screen Quick Actions</a> pre-iOS 13.</figcaption>
 
 이 아이콘 세트를 유심히 살펴보자. 이 중 다른 아이콘들보다 더 무겁게 느껴지는 아이콘들이 있는가?
 
 어떤 아이콘이든 필 처리, 테두리 두께와 크기 및 모양과 같은 변수들에 의해 결정된 시각적 무게를 가지고 있다. 이러한 변수들을 전체적으로 동일한 수준으로 맞췄을 때 비로소 일관성이 구축되는 것이다.
 
-![img18](img/img21.png)
+![img21](img/img21.png)
 
 최근 애플은 [San Francisco,](https://developer.apple.com/fonts/)의 연장선으로 [SF 기호를 도입,](https://developer.apple.com/videos/play/wwdc2019/206)하면서 코스를 수정했다. SF 기호는 보다 발전된 그래픽 아이콘 스타일로, 9가지의 무게감과 3가지 크기를 가지고 있다. (이는 약간 복잡하지만, 신중했던 것이 분명하다.) 아이콘과 아이콘 간, 필 처리와 아웃라인 변형 사이에서, 이것들이 보다 더 조화로워 졌음을 알 수 있다.
 
-![img18](img/img22.png)
-<figcaption> Icons from Apple’s<a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/" target="_blank">SF Symbols</a></figcaption>
+![img22](img/img22.png)
+<figcaption> Icons from Apple’s<a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/" target="_blank"> SF Symbols</a></figcaption>
 
 특히, 여러 명의 디자이너가 함께 제작하고 있는 상황에서, 규모가 큰 아이콘 세트에 일관성을 유지하는 것은 쉬운 일이 아니다. 따라서 전체를 아우르는 명확한 원칙과 규칙을 정립하는 것이 중요하다.
 
 심혈을 기울여 여러 명이 함께 디자인하고 만든 Phosphor Carbon 아이콘 세트의 경우, 동일한 가이드라인을 준수하며 각 아이콘마다 엄격한 테스트를 거쳐, 700개 이상의 아이콘의 일관성을 유지하고 있다. 각각 모양은 다르지만 같은 무게감을 지니고 있으며 모두가 잘 어울린다.
 
-![img18](img/img23.png)
-<figcaption> Subset of the<a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon </a>icon family</figcaption>
+![img23](img/img23.png)
+<figcaption> Subset of the <a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon</a> icon family</figcaption>
 
 
 
@@ -192,3 +192,69 @@ iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처
 # 특성
 
 모든 아이콘 세트에는 특징이 존재한다. 그것들을 독특하게 만드는 것이 무엇일까? 브랜드가 어떻게 전달되고 있는지? 어떤 분위기를 만들어내고 있는지 생각해볼 필요가 있다.
+![img24](img/img124.png)
+<figcaption> Waze icons </figcaption>
+
+Waze의 아이콘은 그들이 믿고 사랑하는 인터페이스이다. 이 알록달록하고 청키한 아이콘들은 “우리는 괴짜야!"라고 소리치고 있다.
+
+Twitter의 아이콘은 부드럽고 가볍고 산뜻한 느낌을 준다.
+
+![img25](img/img125.png)
+<figcaption> Twitter icons </figcaption>
+
+Sketch 아이콘의 경우 섬세하면서 상쾌하다.
+
+![img26](img/img26.png)
+<figcaption><a href="https://www.sketch.com/" target="_blank">Sketch</a> icons by <a href="https://dribbble.com/janik/" target="_blank">Janik Baumgartner</a></figcaption>
+
+Freemojis는 귀엽고 사랑스럽다.
+
+![img27](img/img27.png)
+<figcaption><a href="https://app.streamlineicons.com/freemojis" target="_blank">Freemojis</a>  from <a href="hhttps://streamlineicons.com/" target="_blank">Streamline.</a></figcaption>
+
+Andriod 아이콘 세트는 홈 테마를 위해 다양한 분위기를 연출하고 있다. 여기서는 추상적이거나, 픽셀 스타일, 물방울, 네온 스타일로 표현된 아이콘 세트를 볼 수 있다.
+
+![img28](img/img28.png)
+<figcaption>Top to bottom, left to right: <a href="https://play.google.com/store/apps/details?id=com.sikebo.ijuk.icons.simple&hl=en_US" target="_blank">iJUK, </a> <a href="https://play.google.com/store/apps/details?id=pixbit.prime" target="_blank">PixBit, </a> <a href="https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack" target="_blank">Crayon, </a> <a href="https://play.google.com/store/apps/details?id=com.edzondm.linebit" target="_blank">Linebit</a></figcaption>
+
+
+
+
+# 사용의 용이성
+
+아이콘 세트가 완성되었다고 해서 끝이 아니다. 추가로 새로운 아이콘을 쉽게 제작할 수 있는지, 디자이너들은 자신의 작업물에 쉽게 적용할 수 있는지, 마지막으로 엔지니어는 이 아이콘들을 문제없이 코드화 하는지에 대해 추가적인 테스트와 준비가 필요하다.
+
+높은 퀄리티의 아이콘은 상황에 맞게 구성되고 문서화되며 테스트 된다. 이 때 좋은 점은, 아이콘 매니저와 같은 맞춤형 툴을 통해 지원 된다.
+
+### 정리하기
+
+최종 파일을 깨끗하게 유지하고, 이름을 잘 지정한 다음 쉽게 찾을 수 있도록 챙겨두어야 한다. 이 때 알파벳, 크기별, 유형별 등, 아이콘을 분류하는 가장 좋은 방법은 무엇일지 모색해보자.
+
+![img28](img/img28.png)
+<figcaption>A <a href="https://nucleoapp.com/premium-icons" target="_blank">Nucleo</a> Sketch file, organized by type across pages </figcaption>
+
+### 문서화 잘하는 방법
+
+아이콘 세트의 핵심 원칙에 대한 설명을 적어 두어야 한다.
+
+Phosphor 아이콘 세트에 대한 원칙 예제
+
+- **명료성. 무엇보다도 명확하게 표현하기.** 아이콘을 인지하고 읽을 수 있게 하자. 아이콘이 나타내는 것에 대한 명료성을 져버리선 안된다.
+- **간결성. 가능한 한 적은 디테일 사용하기.** Phosphor 스타일은 함축적이다. 모든 형태의 테두리는 간결하고 의도적으로 표현하여 본질을 전달하고자 해야 한다.
+- **특이성. 독특하고 기발하도록 제작하기.** 독특한 디테일을 추가하면, 약간의 친근한 느낌을 전달할 수 있으며, 그렇지 않은 경우 딱딱한 느낌이 들 수 있다.
+
+다음으로, 기술 규칙을 나열한다.
+
+Phosphor 아이콘 세트에 대한 기술 규칙 예제
+
+- 48x48px 캔버스를 사용하기
+- 1.5px의 중심 라인 테두리 사용하기
+- 둥글게 형태를 마무리하기
+- 끊김이 아이콘의 이해에 도움되는 경우가 아니라면, 가능한 연속적인 획으로 표현하기
+- 가능한 직선과 정원 및 15° 각도를 기준으로 제작하기
+- 디자인 원칙에 맞추기 위해 필요한 경우에는 곡선 적용하기
+- 가능한 한 형태의 전체, 짝수 중심으로 측정하도록 하고, 필요한 경우 1px, 0.5px 기준으로 조정하기
+- 28x28px 원, 25x25px 사각형, 28x22px 가로 직사각형, 22x28px 세로 직사각형 사용하기
+- 6px 정도의 다듬기 영역 유지하기
+
+이와 같은 과정을 반복하고, 원한다면 아래의 예시처럼 문서를 공개해도 좋다.
