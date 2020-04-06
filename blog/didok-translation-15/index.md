@@ -144,17 +144,17 @@ Transit 앱도 비슷한 이슈를 가지고 있다. 클립 보드 아이콘은 
 
 유저 인터페이스에서 간결하게 정돈한 스타일은 요지를 손쉽게 이해시킨다. 여기엔 텔레그램의 아이콘이 좋은 예가 될 것이다 :
 
-![img15](img/img15.png)
+![img15](img/img17.png)
 <figcaption> Telegram icons </figcaption>
 
 간혹 UI 아이콘은 보다 설명적인 스타일로 표현되는 경우도 있다. 이 다중톤의 Yelp 아이콘들은 인기 있는 음식 검색을 시각화한 흥미로운 방식이다. 특히 태국 음식 아이콘의 새우는 정교하게 표현되어 있다.
 
-![img16](img/img16.png)
+![img16](img/img18.png)
 <figcaption> Yelp icons by <a href="https://www.instagram.com/scottt0023/" target="_blank">Scott Tusk</a></figcaption>
 
 모바일, 태블릿 및 데스크탑 애플리케이션을 나타내는 앱 아이콘은 적절한 수준의 디테일을 통해 입체감과 색상을 표현할 수 있다. 이는 시청자들이 모바일 홈 스크린, 독스, 앱 스토어에서 브랜드의 맥락을 이해하기 때문에, 앱 아이콘에서도 보다 더 브랜드와 제품에 대해 표현할 수 있는 것이다.
 
-![img17](img/img17.png)
+![img17](img/img19.png)
 <figcaption> Apple <a href="https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/" target="_blank">app icons</a>for Procreate, Firefox, and Netflix</figcaption>
 
 
@@ -163,4 +163,32 @@ Transit 앱도 비슷한 이슈를 가지고 있다. 클립 보드 아이콘은 
 # 일관성
 
 아이콘 세트가 조화를 이루기 위해서는 같은 스타일 규칙을 계속 유지해야 한다.
-iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처리 및 크기를 보
+iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처리 및 크기를 보여왔다.
+
+![img18](img/img20.png)
+<figcaption> Icons from Apple’s  <a href="https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/" target="_blank">Home Screen Quick Actions</a> pre-iOS 13.</figcaption>
+
+이 아이콘 세트를 유심히 살펴보자. 이 중 다른 아이콘들보다 더 무겁게 느껴지는 아이콘들이 있는가?
+
+어떤 아이콘이든 필 처리, 테두리 두께와 크기 및 모양과 같은 변수들에 의해 결정된 시각적 무게를 가지고 있다. 이러한 변수들을 전체적으로 동일한 수준으로 맞췄을 때 비로소 일관성이 구축되는 것이다.
+
+![img18](img/img21.png)
+
+최근 애플은 [San Francisco,](https://developer.apple.com/fonts/)의 연장선으로 [SF 기호를 도입,](https://developer.apple.com/videos/play/wwdc2019/206)하면서 코스를 수정했다. SF 기호는 보다 발전된 그래픽 아이콘 스타일로, 9가지의 무게감과 3가지 크기를 가지고 있다. (이는 약간 복잡하지만, 신중했던 것이 분명하다.) 아이콘과 아이콘 간, 필 처리와 아웃라인 변형 사이에서, 이것들이 보다 더 조화로워 졌음을 알 수 있다.
+
+![img18](img/img22.png)
+<figcaption> Icons from Apple’s<a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/" target="_blank">SF Symbols</a></figcaption>
+
+특히, 여러 명의 디자이너가 함께 제작하고 있는 상황에서, 규모가 큰 아이콘 세트에 일관성을 유지하는 것은 쉬운 일이 아니다. 따라서 전체를 아우르는 명확한 원칙과 규칙을 정립하는 것이 중요하다.
+
+심혈을 기울여 여러 명이 함께 디자인하고 만든 Phosphor Carbon 아이콘 세트의 경우, 동일한 가이드라인을 준수하며 각 아이콘마다 엄격한 테스트를 거쳐, 700개 이상의 아이콘의 일관성을 유지하고 있다. 각각 모양은 다르지만 같은 무게감을 지니고 있으며 모두가 잘 어울린다.
+
+![img18](img/img23.png)
+<figcaption> Subset of the<a href="https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor" target="_blank">Phosphor Carbon </a>icon family</figcaption>
+
+
+
+
+# 특성
+
+모든 아이콘 세트에는 특징이 존재한다. 그것들을 독특하게 만드는 것이 무엇일까? 브랜드가 어떻게 전달되고 있는지? 어떤 분위기를 만들어내고 있는지 생각해볼 필요가 있다.
