@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'내 아이콘 왜 이럴까' 싶을 때 챙겨야 할 7원칙"
+title:  "내 아이콘 왜 이럴까' 싶을 때 챙겨야 할 7원칙"
 subtitle: "명료성, 가독성, 정렬성, 간결성, 일관성, 특성, 사용의 용이성"
 type: "Article Translation"
 blog: true
@@ -8,7 +8,7 @@ text: true
 author: "JHelena Zhang"
 translator: Hyojeong Noh
 post-header: true
-header-img: "img/header.jpg"
+header-img: "img/img01.png"
 order: 15
 ---
 
@@ -165,4 +165,4 @@ Transit 앱도 비슷한 이슈를 가지고 있다. 클립 보드 아이콘은 
 # 일관성
 
 아이콘 세트가 조화를 이루기 위해서는 같은 스타일 규칙을 계속 유지해야 한다.
-iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처리 및 크기를 보여왔다.
+iOS 13 이전에 애플의 아이콘은 다양한 종류의 테두리와 필 처리 및 크기를 보
