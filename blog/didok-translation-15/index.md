@@ -2,14 +2,14 @@
 layout: post
 title:  "'내 아이콘 왜 이럴까' 싶을 때 챙겨야 할 7원칙"
 subtitle: "명료성, 가독성, 정렬성, 간결성, 일관성, 특성, 사용의 용이성"
-type: "Article translation"
+type: "Article Translation"
 blog: true
 text: true
 author: "JHelena Zhang"
 translator: Hyojeong Noh
 post-header: true
 header-img: "img/header.jpg"
-order: 8
+order: 15
 ---
 
 ![img01](img/img01.png)
