@@ -330,10 +330,10 @@ Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려�
 
 <br>
 
-발행: 2020.03.19 디독 뉴스레터
+발행:  2020.03.19 디독 뉴스레터
 
-번역: 노효정
+번역:  노효정
 
-저자 : [Helena Zhang](https://uxdesign.cc/@minoraxis?source=post_page-----e7187539e4a2----------------------)
+저자 :  [Helena Zhang](https://uxdesign.cc/@minoraxis?source=post_page-----e7187539e4a2----------------------)
 
-원문 링크: [바로가기](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+원문 링크:  [바로가기](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
