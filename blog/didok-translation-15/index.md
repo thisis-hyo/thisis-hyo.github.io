@@ -306,13 +306,17 @@ Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려�
 - [**Nucleo](https://nucleoapp.com/premium-icons) 아웃라인, 플랫/컬러, 글리프 3가지 스타일로 구성된 약 30만 개 아이콘 세트
 - [**Streamline](https://streamlineicons.com/) 아름답게 만들어진 30만 개 아이콘과 3가지 무게의 선형 아이콘
 
-### 아이콘 관리자
+<br>
 
+### 아이콘 관리자
 - [Noun Project](https://thenounproject.com/) 퀄리티 측면에서 완벽하다고 할 수 없지만, 스타일과 은유적 표현에 있어 영감 받기 좋은 사이트
 
-### 아이콘 매니저
+<br>
 
+### 아이콘 매니저
 - [Nucleo app](https://nucleoapp.com/application) 앱 사용 시 아이콘 세트를 임포트/익스포트 할 수 있고 원하는 디자인 툴로 불러오기 가능
+
+<br>
 
 ### 아이콘 관련 문서
 
@@ -320,13 +324,14 @@ Font Awesome의 경우, 위의 몇 가지 원칙은 놓쳤지만, 믿기 어려�
 - [UI icons](https://www.ibm.com/design/language/iconography/ui-icons/design/), [App icons](https://www.ibm.com/design/language/iconography/app-icons/design/), [contributor guide for icons](https://www.carbondesignsystem.com/guidelines/icons/contribute/) IBM에서 제공하는 뛰어난 시각적 참고 도구/문서들**
 - [Shopify Polaris icons](https://polaris.shopify.com/design/icons) Shopify에서 제공하는 가장 잘 작성된 가이드라인**
 
----
-
 <br>
+---
+<br>
+
 발행: 디독 2020.03.19
 
 번역: 노효정
 
 저자 : [Helena Zhang](https://uxdesign.cc/@minoraxis?source=post_page-----e7187539e4a2----------------------)
 
-원문 링크: [https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+원문 링크: [바로가기](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
