@@ -12,7 +12,8 @@ header-img: "img/header.jpg"
 order: 12
 ---
 
-만약 이 글을 읽는 여러분이 iOS와 Android(머터리얼 디자인) 버전의 앱을 디자인하고 있다면, 이 아티클이 아주 유용할 것이다.
+만약 이 글을 읽는 여러분이 iOS나 Android(머터리얼 디자인) 앱을 디자인하고 있다면,
+이 아티클이 아주 유용할 것이다.
 
 이 글에서는 UX/UI 디자이너들에게 필요한 iOS와 Android 간 주된 차이점을 다뤄 보고자 한다. 디자이너가 특정 플랫폼의 앱을 다른 플랫폼에 맞게 디자인을 변환할 때 알아야 할 내용을 담고자 했다. 하지만, 이는 어디까지나 가이드일 뿐이며 여기서 언급된 내용 중 일부는 애플이나 구글에서조차도 모순되는 부분이 있음을 기억하자. 이 글은 단지 ‘iOS형 사고’을 ‘Android형 사고'로 바꿔보는 것일 뿐이며, 그 반대로도 마찬가지다. 
 
@@ -24,6 +25,10 @@ order: 12
 4. 타이포그라피 
 5. 다른 플랫폼 기준
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
 먼저 iOS에서 Android로, 또는 그 반대로 UX/UI 디자이너가 앱을 변환할 때 고려해야 하는 가장 중요한 차이점들을 살펴보자.
