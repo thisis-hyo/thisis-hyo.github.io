@@ -25,10 +25,11 @@ order: 12
 4. 타이포그라피 
 5. 다른 플랫폼 기준
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.mbtablestyle}
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
 먼저 iOS에서 Android로, 또는 그 반대로 UX/UI 디자이너가 앱을 변환할 때 고려해야 하는 가장 중요한 차이점들을 살펴보자.
