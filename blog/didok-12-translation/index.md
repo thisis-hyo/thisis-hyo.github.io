@@ -26,9 +26,10 @@ order: 12
 5. 다른 플랫폼 기준
 <br>
 
-| Item | Description | Price |
-| ---- | ----------- | ----- |
-| item1 | item1 description | 1.00 |
+|  Design Element  |  iOS  |  Android  |
+| :---- | :----------- | :----- |
+|  [Minimum tap target size](https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html?ref=uxdesignweekly#tap-target)  |  44x44 pt  | 48x48 dp ([dp란 무엇일까?](https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html?ref=uxdesignweekly#tap-target)) |
+
 | item2 | item2 description | 100.00 |
 {:.mytable}
 
