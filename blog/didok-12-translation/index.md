@@ -26,15 +26,11 @@ order: 12
 5. 다른 플랫폼 기준
 
 
-| 상단1 | 상단2 | 상단4 |
-|:-----|:----:|-----:|
-| 셀1  | 셀2  | 셀3  |
-| 셀4  | 셀5  | 셀6  |
-|----
-| 셀1  | 셀2  | 셀3  |
-| 셀4  | 셀5  | 셀6  |
-|=====
-| 하단1   | 하단2 | 하단4 |
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
