@@ -56,9 +56,8 @@ order: 12
 # 2. iOS vs Android 내비게이션
 
 ### 2-1. 화면 상단 내비게이션
-<br>
-![img01](img-12/img01.png)
 
+![img01](img-12/img01.png)
 
 자, 위에서부터 살펴보도록하자. 
 
