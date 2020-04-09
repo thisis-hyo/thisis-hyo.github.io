@@ -24,17 +24,23 @@ order: 12
 3. 선택 제어 장치(컨트롤러) 
 4. 타이포그라피 
 5. 다른 플랫폼 기준
+
 <br>
-
-|  Design Element  |  iOS  |  Android  |
-| :---- | :----------- | :----- |
-|  [Minimum tap target size](https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html?ref=uxdesignweekly#tap-target)  |  44x44 pt  | 48x48 dp ([dp란 무엇일까?](https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html?ref=uxdesignweekly#tap-target)) |
-
-| item2 | item2 description | 100.00 |
-{:.mytable}
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
 먼저 iOS에서 Android로, 또는 그 반대로 UX/UI 디자이너가 앱을 변환할 때 고려해야 하는 가장 중요한 차이점들을 살펴보자.
+
+|  Design Element  |  iOS  |  Android  |
+| :---- | :----------- | :----- |
+|  Minimum tap target size  |  44x44 pt  |  48x48 dp (dp란 무엇일까?)  |
+|  Main app navigation |  하단 탐색(내비게이션)  |  화면 상단 탭  |
+|  보조 앱 탐색  |  하단 탐색 메뉴 ‘더보기’ 또는 하단 UI  |  탐색 메뉴 또는 ‘햄버거' 사이드 메뉴  |
+|  기본 버튼/액션  |  상단 탐색 메뉴/오른쪽  |  플로팅 액션 버튼  |
+|  보조 조치   |  페이지 UI  |  상단 메뉴 탐색/오른쪽  |
+|  단일 선택 목록   |  선택된 항목에 체크 표시 목록  |  라디오 버튼 목록  |
+|  다중 선택 목록   |  스위치, 또는 선택된 항목에 체크 표시 목록  |  체크박스, 또는 스위치 목록  |
+|  제거 동작 진행 여부   |  모달 대화창을 통한 여부 확인  |  임시 화면 알림을 통한 여부 확인  |
+{:.mytable}
 
 본격적으로 이야기 하기 전에 먼저 기본적이지만 중요한 질문 한 가지에 대답해보자
 
