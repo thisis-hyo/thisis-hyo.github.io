@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS와 Android에 대한 완벽한 가이드"
-subtitle: "2020년 3월 31일 Updated"
+subtitle: "2020년 3월 31일 업데이트 기준"
 type: "Article Translation"
 blog: true
 text: true
