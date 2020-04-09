@@ -28,8 +28,8 @@ order: 12
 | Item | Description | Price |
 | --- | --- | ---: |
 | item1 | item1 description | 1.00 |
-| item2 | item2 description | 10.00 |
-{:.table-striped}
+| item2 | item2 description | 100.00 |
+{:.mbtablestyle}
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
 먼저 iOS에서 Android로, 또는 그 반대로 UX/UI 디자이너가 앱을 변환할 때 고려해야 하는 가장 중요한 차이점들을 살펴보자.
