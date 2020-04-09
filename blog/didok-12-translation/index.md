@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS와 Android에 대한 완벽한 가이드"
-subtitle: "명료성, 가독성, 정렬성, 간결성, 일관성, 특성, 사용의 용이성"
+subtitle: "2020년 3월 31일 Updated"
 type: "Article Translation"
 blog: true
 text: true
