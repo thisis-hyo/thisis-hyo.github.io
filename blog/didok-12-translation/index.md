@@ -24,14 +24,13 @@ order: 12
 3. 선택 제어 장치(컨트롤러) 
 4. 타이포그라피 
 5. 다른 플랫폼 기준
+<br>
 
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
+| Item | Description | Price |
+| ---- | ----------- | ----- |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.mytable}
 
 # 1. iOS vs Android UI 디자인 : 주된 차이점
 먼저 iOS에서 Android로, 또는 그 반대로 UX/UI 디자이너가 앱을 변환할 때 고려해야 하는 가장 중요한 차이점들을 살펴보자.
